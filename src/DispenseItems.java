@@ -6,7 +6,6 @@ import java.util.Objects;
 import java.util.Scanner;
 
 public class DispenseItems {
-    static boolean selection;
     //static double change;
 
     public static void Dispense(){
@@ -65,6 +64,7 @@ public class DispenseItems {
 
         Scanner sc = new Scanner(System.in);
         String key = sc.nextLine();
+        boolean selection;
         selection = snackIds.containsKey(key);
 
         if(selection==true){
