@@ -23,15 +23,15 @@ public class FeedMoneyScreen {
             insertedMoney = MoneyInserted.nextInt();
             if (insertedMoney == 1 || insertedMoney == 5 || insertedMoney == 10 || insertedMoney == 20) {
                 moneyInserted = moneyInserted + insertedMoney;
-                while(moneyInserted>0){
-                    PurchaseScreen();
-                    FeedMoney();
-                    Select();
-                    if (purchaseSelection==3){
-                        DispenseChange.Change();
-                        break;
-                    }
-                }
+//                while(moneyInserted>0){
+//                    PurchaseScreen();
+//                    FeedMoney();
+//                    Select();
+//                    if (purchaseSelection==3){
+//                        DispenseChange.Change();
+//                        break;
+//                    }
+//                }
             }
         }
     }

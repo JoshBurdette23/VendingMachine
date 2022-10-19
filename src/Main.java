@@ -14,9 +14,15 @@ public class Main {
             FeedMoneyScreen.Select();
         }
         if(OpenScreen.menu==2){
-            FeedMoneyScreen.PurchaseScreen();
-            FeedMoneyScreen.FeedMoney();
-            FeedMoneyScreen.Select();
+            while(FeedMoneyScreen.moneyInserted>=0) {
+                FeedMoneyScreen.PurchaseScreen();
+                FeedMoneyScreen.FeedMoney();
+                FeedMoneyScreen.Select();
+                if(FeedMoneyScreen.purchaseSelection==3){
+                    DispenseChange.Change();
+                    break;
+                }
+            }
         }
     }
 }

@@ -1,24 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="339adfe5-46b1-4112-a4f8-d9bbb55af88e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VendMatic80.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Beverages.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Candy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chips.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DispenseChange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DispenseItems.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DisplayItems.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FeedMoneyScreen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Gum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OpenScreen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Snacks.java" afterDir="false" />
+    <list default="true" id="339adfe5-46b1-4112-a4f8-d9bbb55af88e" name="Changes" comment="VendoMatic800">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FeedMoneyScreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FeedMoneyScreen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,6 +60,35 @@
       <option name="presentableId" value="Default" />
       <updated>1662938697488</updated>
     </task>
+    <task id="LOCAL-00001" summary="VendoMatic800">
+      <created>1666019840175</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1666019840175</updated>
+    </task>
+    <task id="LOCAL-00002" summary="VendoMatic800">
+      <created>1666019916239</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1666019916239</updated>
+    </task>
+    <task id="LOCAL-00003" summary="VendoMatic800">
+      <created>1666019937747</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1666019937747</updated>
+    </task>
+    <task id="LOCAL-00004" summary="VendoMatic800">
+      <created>1666019946416</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1666019946416</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -86,5 +101,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="VendoMatic800" />
+    <option name="LAST_COMMIT_MESSAGE" value="VendoMatic800" />
   </component>
 </project>
